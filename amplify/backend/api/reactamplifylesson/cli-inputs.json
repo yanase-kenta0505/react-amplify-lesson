@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactamplifylesson",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/yanasekenta/Desktop/project/react/react-amplify-lesson/amplify/backend/api/reactamplifylesson/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
